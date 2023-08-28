@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- I'm from Ukraine🐱‍👤<br>- 3 years in the IT field🎉<br>- And I like to learn) 📚</p>
+<img align="right" height="250" src="https://i.imgflip.com/7x7o6i.gif" alt="Scooby Doo" />
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/8QB.gif" alt="Scooby Doo" />
+<p align="left">- I'm from Ukraine🐱‍👤<br>- 3 years in the IT field🎉<br>- And I like to learn) 📚</p>
 
 ###
 
