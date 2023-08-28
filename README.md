@@ -19,19 +19,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="50" alt="styledcomponents logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="35" alt="styledcomponents logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
 </div>
 
 ###
