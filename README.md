@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- I'm from Ukraine🐱‍👤<br>- 3 years in the IT field🎉<br>- And I like to learn) 📚</p>
+<p align="left">- I'm from Ukraine🐱‍👤<br>- 3 years in the IT field🎉<br>- Like to learn) 📚</p>
 
 ###
 
